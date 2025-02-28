@@ -4,5 +4,5 @@
 public class NightSky {
     public init() {}
     
-    public var text = "asdf"
+    public var text = "Hwllo"
 }
